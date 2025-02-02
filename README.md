@@ -1,7 +1,3 @@
-## Hi there 👋
-
-
-
 # 💻 Hey there! I'm Shubham Agrahari 👋
 
 🚀 **Frontend Developer | React Enthusiast | Tech Explorer**
