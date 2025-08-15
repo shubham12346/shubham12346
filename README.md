@@ -2,7 +2,7 @@
 
 🚀 **Frontend Developer | React Enthusiast | Tech Explorer**
 
-Welcome to my GitHub! I'm a passionate **React Developer** with almost **2+ years** of experience, specializing in building **scalable, performant, and visually appealing web applications**. Currently based in Pune, I'm on a journey to **master frontend engineering and explore system design**. 
+Welcome to my GitHub! I'm a passionate **React Developer** with nearly **3 years** of experience, specializing in building **scalable, performant, and visually appealing web applications**. Currently based in Pune, I'm on a journey to **master frontend engineering and explore system design**. 
 
 ## 🔥 Tech Stack & Tools
 
